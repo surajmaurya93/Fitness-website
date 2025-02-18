@@ -1,5 +1,6 @@
 # Fitness-Website
 A frontend fitness website built using HTML, CSS, and JavaScript without reponsive.
+
 ![Screenshot (819)](https://github.com/user-attachments/assets/7e89393c-97a1-44e9-b69f-705353eb9981)
 ![Screenshot (820)](https://github.com/user-attachments/assets/f4ea705f-0e36-4525-9dfb-4eb17ee130e3)
 ![Screenshot (821)](https://github.com/user-attachments/assets/8e54ccfd-082b-480a-add0-ce6bea1cf60d)
